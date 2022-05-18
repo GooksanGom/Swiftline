@@ -10,6 +10,6 @@ let package = Package(
   ],
   dependencies: [],
   targets: [
-    .target(name: "Swiftline", dependencies: []),
+    .target(name: "Swiftline", dependencies: [], path: "[PackageRoot]/Sources"),
   ]
 )
