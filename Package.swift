@@ -10,6 +10,7 @@ let package = Package(
       name: "Swiftline",
       targets: ["Swiftline"],
   ],
+  dependencies: [],
   targets: [
     .target(
       name: "Swiftline",
