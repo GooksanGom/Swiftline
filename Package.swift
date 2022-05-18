@@ -8,7 +8,7 @@ let package = Package(
   products: [
     .library(
       name: "Swiftline",
-      targets: ["Swiftline"],
+      targets: ["Swiftline"]),
   ],
   dependencies: [],
   targets: [
